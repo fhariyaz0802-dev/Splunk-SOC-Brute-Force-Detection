@@ -94,7 +94,7 @@ The dashboard contains four security monitoring panels:
 
 ### Dashboard Screenshot
 
-![SOC Monitoring Dashboard](04-SOC-Dashboard.png)
+![SOC Monitoring Dashboard](SOC%20Dashboard.png)
 
 ### Failed Login Events
 
@@ -110,7 +110,7 @@ The dashboard contains four security monitoring panels:
 
 ### Brute-Force Investigation
 
-![Brute-Force Investigation](05-Brute-Force-Investigation.png)
+![Brute-Force Investigation](brute%20force%20investigation.png)
 
 ## Security Investigation Findings
 
